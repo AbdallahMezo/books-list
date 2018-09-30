@@ -13,7 +13,7 @@ class MainHeader extends React.Component {
     return (
       <div className="app-header">
         <div className="app-logo">
-          <img src="book.png" alt="" className="logo"/>
+          <img src="/book.png" alt="" className="logo"/>
           <h2>Book Listing</h2>
         </div>
         <div>
