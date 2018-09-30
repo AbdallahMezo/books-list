@@ -73,7 +73,7 @@ class BookDetails extends React.Component {
             <img src={book.image} alt={`${book.title} cover`}/>
           </Col>
         </Row>
-        <Divider>Bio</Divider>
+        <Divider>Description</Divider>
         <Row style={{textAlign: 'left'}}>
           <p>{book.description}</p>
         </Row>
